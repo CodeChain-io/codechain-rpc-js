@@ -13,7 +13,7 @@ script:
     - yarn build
     - yarn test
 notifications:
-    webhooks: https://webhooks.gitter.im/e/8908c378a5e2669893ab
+    webhooks: https://webhooks.gitter.im/e/92aa5b26dd43ed0dd105
 services:
     - docker
 cache: yarn
